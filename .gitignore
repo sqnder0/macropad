@@ -11,3 +11,6 @@ fp-info-cache
 */.venv
 .vscode
 firmware/kmk_firmware
+
+*FCBak
+*_restore_backup_*/
