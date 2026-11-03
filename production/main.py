@@ -31,7 +31,7 @@ i2c_bus = busio.I2C(board.D5, board.D4)
 driver = SSD1306(i2c=i2c_bus, device_address=0x3C)
 display = Display(
     display=driver,
-    entries=[TextEntry(text="Macropad", x=0, y=0)],
+    entries=[TextEntry(text="Soundpad", x=0, y=0)],
     width=128,
     height=32,
     dim_time=10,

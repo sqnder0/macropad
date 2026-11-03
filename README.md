@@ -1,6 +1,6 @@
-# Macropad
+# Soundpad
 
-A 6-key media macropad with a rotary encoder and a 0.91" OLED, built around a Seeed XIAO RP2040.
+A 6-key media soundpad with a rotary encoder and a 0.91" OLED, built around a Seeed XIAO RP2040.
 
 ![Hackpad](docs/images/macropad.png)
 

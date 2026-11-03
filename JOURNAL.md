@@ -1,7 +1,7 @@
 ---
-title: "Macropad"
+title: "Soundpad"
 author: "sqnder"
-description: "A simple custom macropad featuring 6 keys an OLED display and a sound nob"
+description: "A simple custom soundpad featuring 6 keys an OLED display and a sound nob"
 created_at: "2 November 2026"
 ---
 
@@ -15,8 +15,8 @@ Well, I um, did maybe some overtime here but uhmm... I managed to get the electr
 
 # November 3th: Preparing for shipping
 
-So what did I do today, I wrote firmware a readme, al those code editor stuff I can track with hackatime, nothing much really. I'm currently preparing for the ship. Currently the now playing firmware is not on it cause I can edit the firmware later when the macropad is assembled.
+So what did I do today, I wrote firmware a readme, al those code editor stuff I can track with hackatime, nothing much really. I'm currently preparing for the ship. Currently the now playing firmware is not on it cause I can edit the firmware later when the soundpad is assembled.
 
-![macropad](docs/images/macropad.png)
+![soundpad](docs/images/macropad.png)
 
 **Total time spent: 1 hours**
