@@ -37,4 +37,4 @@ Two printed parts (case and plate), held together by four M3 screws.
 | 1 | Custom PCB | Gerbers in `production/gerbers.zip` |
 
 ## Firmware
-KMK, in `firmware/main.py`.
+KMK, in `Firmware/main.py`.
